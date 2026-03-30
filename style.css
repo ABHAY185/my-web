@@ -1,0 +1,12 @@
+.hero {
+    height: 90vh;
+    background: linear-gradient(to right, #007bff, #00c6ff);
+}
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
